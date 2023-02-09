@@ -1,0 +1,65 @@
+{
+  "Cities": [
+    {
+      "id": 1,
+      "title": "nagpur",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "Tods": [
+    {
+      "title": "Todos complet ",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "Todos complet not done",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "Todos complet not done for",
+      "status": true,
+      "id": 3
+    },
+    {
+      "title": "Todos complet not done for",
+      "status": true,
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "title": "pgination have to do",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "compliting the assignment",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "ABC",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "DBC",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "KBC",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
