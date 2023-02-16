@@ -24,10 +24,17 @@
       "id":1,
       "Username":"vaibhav",
       "Password":"vaibhav@",
-      "Avater":"",
       "Email":"vaibhav@gmail.com"
 
      }
+  ],
+
+  "admin":[
+   {
+    "id":1,
+    "Email" : "admin@stockbroker.com",
+    "Password" : "admin123"
+   }
   ],
   "blogs":[
     {
